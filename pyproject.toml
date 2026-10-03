@@ -45,7 +45,7 @@ boto3 = "^1.28.28"
 
 
 [tool.poetry.group.lint.dependencies]
-black = "^23.1.0"
+black = ">=23.1,<25.0"
 
 
 [tool.poetry.group.dev.dependencies]
